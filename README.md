@@ -58,6 +58,10 @@ No **Mac** a atualização automática ainda não funciona (exige assinatura pag
   <img src="img/entrada-contas.png" alt="Tela de entrada com várias contas" width="420">
 </p>
 
+## O que vem depois
+
+Algumas coisas o WhatsApp Web não permite (atender chamadas, dispositivos vinculados, mensagem de ausência e saudação, listas de transmissão, Favoritas do WhatsApp novo). Elas serão tratadas mais para a frente, quando for construída a API própria do projeto.
+
 ## Histórico de versões
 
 | Versão | Data | Novidades |
