@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="img/logo.svg" alt="Zap Messenger Live Plus" width="300">
+  <img src="img/logo.svg" alt="Zap Messenger" width="300">
 </p>
 
-<h1 align="center">Zap Messenger Live Plus</h1>
+<h1 align="center">Zap Messenger</h1>
 
 <p align="center"><b>O seu WhatsApp com a cara do bom e velho MSN.</b><br>
 Telas no estilo do Windows Live Messenger 2009, com um toque moderno. Para Windows, Linux e Mac.</p>
@@ -47,7 +47,9 @@ No **Mac** a atualização automática ainda não funciona (exige assinatura pag
 ## O que o app faz
 
 - Entrada com QR code ou código de 8 letras, até 3 contas WhatsApp.
-- Lista de contatos com filtros, busca, etiquetas do WhatsApp, conversas fixadas, tema claro e escuro.
+- Lista de contatos com filtros, busca, etiquetas do WhatsApp e conversas fixadas.
+- **Temas personalizáveis** (⚙ > Tema): Claro, Escuro, Clássico 2009 e Meu tema, com 8 cores, fonte, tamanho e imagem de fundo; dá para exportar, importar e voltar ao padrão.
+- **Emoticons personalizados** e **winks** (animações de tela cheia; no celular de quem não usa o app aparece só o texto "✨ Wink: Nome").
 - Uma janela por conversa no formato "Fulano diz:", emoticons, **chamar atenção** (a janela treme) e "está digitando...".
 - Responder, reagir, editar, apagar, encaminhar, favoritar, enquetes, localização, contato, @menções, mensagens de voz, figurinhas e GIFs.
 - Status, grupos, canais, comunidades, privacidade e WhatsApp Business (perfil e catálogo).
@@ -62,14 +64,21 @@ No **Mac** a atualização automática ainda não funciona (exige assinatura pag
 
 Algumas coisas o WhatsApp Web não permite (atender chamadas, dispositivos vinculados, mensagem de ausência e saudação, listas de transmissão, Favoritas do WhatsApp novo). Elas serão tratadas mais para a frente, quando for construída a API própria do projeto.
 
-## Em estudo
+## Novidades da última versão (0.3.48)
 
-- Temas personalizáveis (escolher cores além de claro e escuro).
+- Em **Meu tema** no escuro, a cor do texto escolhida vale também nas mensagens recebidas e nas linhas de apoio.
 
 ## Histórico de versões
 
+Esta página guarda só a versão mais nova para baixar (e só os instaladores); as anteriores ficam registradas aqui.
+
 | Versão | Data | Novidades |
 | --- | --- | --- |
+| 0.3.48 | 24/10/2026 | Meu tema no escuro: a cor do texto vale nas mensagens recebidas e nas linhas de apoio |
+| 0.3.47 | 24/10/2026 | Correções de segurança: link do mapa, comandos da ponte, espera após senha errada de conversa trancada, números mascarados nos logs |
+| 0.3.46 | 24/10/2026 | Meu tema também no escuro; submenus do ⚙ abrem ao lado do item |
+| 0.3.45 | 24/10/2026 | O nome passa a ser só **Zap Messenger** (seus dados e sessões continuam como estavam) |
+| 0.3.44 | 24/10/2026 | Temas personalizáveis, emoticons personalizados e winks; some o ícone verde de status da lista |
 | 0.3.43 | 24/10/2026 | Botão Voltar na tela de QR code ao adicionar ou trocar de conta |
 | 0.3.42 | 23/10/2026 | O toque e o tremor da chamada recebida param quando a chamada acaba no celular |
 | 0.3.41 | 23/10/2026 | Alerta de chamada recebida mais forte: a janela chacoalha e toca até a chamada acabar |
@@ -90,9 +99,9 @@ Algumas coisas o WhatsApp Web não permite (atender chamadas, dispositivos vincu
 | 0.3.19 a 0.3.26 | 18 a 19/10/2026 | Etiquetas do WhatsApp, estabilidade e acabamentos |
 | 0.3.0 a 0.3.18 | 16 a 18/10/2026 | Instalador, atualização automática, mídia, status, avisos, multiconta |
 
-Cada versão tem os instaladores na página de [Releases](https://github.com/DougPomp/ZapMessengerLivePlus-Updates/releases).
+Os instaladores da versão mais nova estão na página de [Releases](https://github.com/DougPomp/ZapMessengerLivePlus-Updates/releases/latest).
 
 ## Sobre
 
-Este repositório guarda **apenas os instaladores e as atualizações**. O código-fonte é privado.
-O Zap Messenger Live Plus não é afiliado ao WhatsApp, à Meta nem à Microsoft; o logotipo é original.
+Este repositório guarda **apenas os instaladores e as atualizações**. O nome do repositório e a pasta de dados do app ainda usam "Live Plus" de propósito, para ninguém perder a sessão. O código-fonte é privado.
+O Zap Messenger não é afiliado ao WhatsApp, à Meta nem à Microsoft; o logotipo é original.
