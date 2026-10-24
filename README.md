@@ -64,9 +64,10 @@ No **Mac** a atualização automática ainda não funciona (exige assinatura pag
 
 Algumas coisas o WhatsApp Web não permite (atender chamadas, dispositivos vinculados, mensagem de ausência e saudação, listas de transmissão, Favoritas do WhatsApp novo). Elas serão tratadas mais para a frente, quando for construída a API própria do projeto.
 
-## Novidades da última versão (0.3.48)
+## Novidades da última versão (0.3.49)
 
-- Em **Meu tema** no escuro, a cor do texto escolhida vale também nas mensagens recebidas e nas linhas de apoio.
+- A tela **Temas** ganhou o seletor **Base: Claro/Escuro**, e os padrões da base Escura ficaram mais claros.
+- Corrigido: um "Meu tema" salvo como Claro voltava ao Claro ao aplicar.
 
 ## Histórico de versões
 
@@ -74,6 +75,7 @@ Esta página guarda só a versão mais nova para baixar (e só os instaladores);
 
 | Versão | Data | Novidades |
 | --- | --- | --- |
+| 0.3.49 | 24/10/2026 | Seletor Base: Claro/Escuro na tela Temas; padrões mais claros no Escuro; Meu tema Claro não volta mais ao Claro ao aplicar |
 | 0.3.48 | 24/10/2026 | Meu tema no escuro: a cor do texto vale nas mensagens recebidas e nas linhas de apoio |
 | 0.3.47 | 24/10/2026 | Correções de segurança: link do mapa, comandos da ponte, espera após senha errada de conversa trancada, números mascarados nos logs |
 | 0.3.46 | 24/10/2026 | Meu tema também no escuro; submenus do ⚙ abrem ao lado do item |
