@@ -62,10 +62,16 @@ No **Mac** a atualização automática ainda não funciona (exige assinatura pag
 
 Algumas coisas o WhatsApp Web não permite (atender chamadas, dispositivos vinculados, mensagem de ausência e saudação, listas de transmissão, Favoritas do WhatsApp novo). Elas serão tratadas mais para a frente, quando for construída a API própria do projeto.
 
+## Em estudo
+
+- Temas personalizáveis (escolher cores além de claro e escuro).
+
 ## Histórico de versões
 
 | Versão | Data | Novidades |
 | --- | --- | --- |
+| 0.3.43 | 24/10/2026 | Botão Voltar na tela de QR code ao adicionar ou trocar de conta |
+| 0.3.42 | 23/10/2026 | O toque e o tremor da chamada recebida param quando a chamada acaba no celular |
 | 0.3.41 | 23/10/2026 | Alerta de chamada recebida mais forte: a janela chacoalha e toca até a chamada acabar |
 | 0.3.40 | 23/10/2026 | Correções na galeria e no catálogo; X para limpar a busca |
 | 0.3.39 | 23/10/2026 | Ícones na barra da conversa: mídia, links, documentos, favoritas, perfil comercial e catálogo |
